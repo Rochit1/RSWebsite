@@ -11,7 +11,7 @@ a{
 }
 #showcase{
     margin: 0%;padding: 0%;
-    background: url('pexels-photo-268533.jpeg') no-repeat center/cover;
+    background: url('pexels-artem-podrez-7233131.jpg') no-repeat center/cover;
     width: 100%;height: 100vh;
     /* viewport height */
     position: relative;
@@ -76,7 +76,7 @@ footer .footer-cols ul li:first-child{
     text-align: center;
 }
 .section1{
-    background: url('pexels-photo-924824.jpeg') no-repeat center/cover;
+    background: url('pexels-magda-ehlers-636353.jpg') no-repeat center/cover;
     width: 100%;height: 100vh;overflow: hidden;
 }
 #skills{
@@ -84,7 +84,7 @@ footer .footer-cols ul li:first-child{
 }
 
 .section2{
-    background: url(OIP\ \(1\).jpg) no-repeat center/cover;
+    background: url(pexels-steve-johnson-1517076.jpg) no-repeat center/cover;
     width: 100%;height: 100vh;overflow: hidden;
 }
 #cis2{
@@ -94,7 +94,7 @@ footer .footer-cols ul li:first-child{
     text-align: center;
 }
 .section3{
-    background: url('milky-way-starry-sky-night-sky-star-956981.jpeg') no-repeat center/cover;
+    background: url('pexels-tim-mossholder-2096622.jpg') no-repeat center/cover;
     min-width: 60px;height: 100vh;overflow: hidden;
 }
 #contactinfo{
